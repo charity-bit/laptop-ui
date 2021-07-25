@@ -1,3 +1,3 @@
 # laptop-ui
 
-<a href="lapui.netlify.app">Check this site Out here</a
+<a href="https://lapui.netlify.app">Check this site Out here</a>
